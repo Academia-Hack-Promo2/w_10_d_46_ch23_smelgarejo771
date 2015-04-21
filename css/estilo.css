@@ -1,0 +1,65 @@
+body{
+	font-size: 20px;
+}
+
+.cont-client{
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.cont-bank{
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#num1{
+	margin-top: 30px;
+	color: #286090; 
+}
+
+#num2{
+	color: #31b0d5; 
+}
+
+#num3{
+	color: #ec971f; 
+}
+
+#num4{
+	color: #c9302c; 
+}
+
+#num5{
+	margin-top: 30px;
+	color: #286090; 
+}
+
+#num7{
+	color: #31b0d5; 
+}
+
+#num9{
+	color: #ec971f; 
+}
+
+#num11{
+	color: #c9302c; 
+}
+
+#num6{
+	color: #286090; 
+}
+
+#num8{
+	color: #31b0d5; 
+}
+
+#num10{
+	color: #ec971f; 
+}
+
+#num12{
+	color: #c9302c; 
+}
